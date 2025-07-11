@@ -1,3 +1,2 @@
-# adminsite
-
-A new Flutter project.
+# adminsite For Mother Tongue Learning App
+A desktop app managing the Dictionary data CRUD
